@@ -1,4 +1,4 @@
-### Hi, I'm Ryan
+## Hi, I'm Ryan
 
  :video_game: Former game developer at Big John Games
  
