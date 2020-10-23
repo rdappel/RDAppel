@@ -10,6 +10,12 @@
  
  :dog::cat::cat::cat::cat::cat: Trying to stay ~~productive~~ *sane* with a house full of pets
  
+ 
+ 
+ ### Languages & Tools:
+ 
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Node.js.svg" />
+ 
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rdappel)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
