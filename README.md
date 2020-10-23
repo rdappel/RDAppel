@@ -2,7 +2,7 @@
 
  :video_game: Former game developer at Big John Games
  
- :man_teacher: I now teach Software and Web Development at Fox Valley Technical College
+ :man_teacher: Now I teach Software and Web Development at Fox Valley Technical College
  
  :couple: Happily married to someone that I don't deserve
  
