@@ -1,9 +1,13 @@
 ### Hi, I'm Ryan
 
  :video_game: Former game developer at Big John Games
+ 
  :man_teacher: I now teach Software and Web Development at Fox Valley Tech
+ 
  :couple: Happily Married to someone that I don't deserve
+ 
  :house_with_garden: Currently developing a home automation system and renovating our house
+ 
  :dog::cat::cat::cat::cat::cat: Trying to stay ~~productive~~ sane with a house full of pets
  
 
