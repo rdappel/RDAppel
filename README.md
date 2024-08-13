@@ -8,7 +8,7 @@
  
  :house_with_garden: Currently developing a home automation system and renovating our house
  
- :dog::cat::cat::cat::cat::cat: Trying to stay ~~productive~~ *sane* with a house full of pets  
+ :dog::cat::cat::cat::cat::cat::cat::cat: Trying to stay ~~productive~~ *sane* with a house full of pets  
  
  ### Languages & Tools:
 
